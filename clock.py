@@ -16,7 +16,7 @@ def time():
  
 
 lbl = Label(root, font = ('calibri', 40, 'bold'),
-            background = 'purple',
+            background = 'black',
             foreground = 'white')
 
 lbl.pack(anchor = 'center')
